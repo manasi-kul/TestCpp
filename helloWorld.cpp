@@ -11,4 +11,10 @@ int main()
         continue; 
     }  
     return 0;
+    char aa;
+    switch (aa)
+    {
+            case: default
+                break;
+    }
 }
