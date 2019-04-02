@@ -3,8 +3,10 @@ using namespace std;
 
 int main() 
 {
-    int a;
+    int as;
+    int as;
     cout << "Hello, World!";
+
      for(int i = 0; i < 3; i++); 
     { 
         printf("loop "); 
@@ -25,17 +27,4 @@ int main()
         printf("loop "); 
         continue; 
     }  
-    return 0;
-    char aa;
-    switch (aa)
-    {
-            case: default
-                break;
-    }
-    
-    switch (aa)
-    {
-            case: default
-                break;
-    }
-}
+
