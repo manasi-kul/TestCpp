@@ -10,8 +10,29 @@ int main()
         printf("loop "); 
         continue; 
     }  
+     for(int i = 0; i < 3; i++); 
+    { 
+        printf("loop "); 
+        continue; 
+    }  
+     for(int i = 0; i < 3; i++); 
+    { 
+        printf("loop "); 
+        continue; 
+    }  
+     for(int i = 0; i < 3; i++); 
+    { 
+        printf("loop "); 
+        continue; 
+    }  
     return 0;
     char aa;
+    switch (aa)
+    {
+            case: default
+                break;
+    }
+    
     switch (aa)
     {
             case: default
