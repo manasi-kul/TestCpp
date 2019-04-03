@@ -5,7 +5,7 @@ int main()
 {
     int as;
     int as;
-    cout << "Hello, World!";
+    cout << "Hello, World "; 
 
      for(int i = 0; i < 3; i++); 
     { 
