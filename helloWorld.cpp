@@ -5,8 +5,26 @@ int main()
 {
     int as;
     int as;
-    cout << "Hello, World!";
-    
-    return 0;
-    char abc;
-}
+    cout << "Hello, World "; 
+
+     for(int i = 0; i < 3; i++); 
+    { 
+        printf("loop "); 
+        continue; 
+    }  
+     for(int i = 0; i < 3; i++); 
+    { 
+        printf("loop "); 
+        continue; 
+    }  
+     for(int i = 0; i < 3; i++); 
+    { 
+        printf("loop "); 
+        continue; 
+    }  
+     for(int i = 0; i < 3; i++); 
+    { 
+        printf("loop "); 
+        continue; 
+    }  
+
